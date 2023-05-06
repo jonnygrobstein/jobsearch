@@ -10,7 +10,7 @@ const Footer = ({ url }) => {
       <TouchableOpacity style={styles.likeBtn}>
         <Image
           source={icons.heartOutline}
-          resizeMode='conatin'
+          resizeMode='contain'
           style={styles.likeBtnImage}
         />
       </TouchableOpacity>
